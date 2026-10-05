@@ -101,5 +101,3 @@ Shyshkin.
 Course:
 https://www.udemy.com/course/advanced-selenium-grid-and-cloud/
 
-Original course base code:
-https://github.com/dimashyshkin/selenium-grid-cloud-base-code
